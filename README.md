@@ -7,7 +7,7 @@ This minor project is for the purpose of assessment process at GameCrio.
 Clone the project
 
 ```bash
-  git clone https://amulkaus07@bitbucket.org/amulya-kaustubh/syoft_assignment.git
+  git clone https://github.com/amul-07/gamecrio-assignment.git
 ```
 
 Go to the project directory
